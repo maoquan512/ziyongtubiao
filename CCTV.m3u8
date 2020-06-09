@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1综合高清
+http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8
+#EXTINF:-1 ,CCTV2财经高清
+http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000203602.m3u8
+#EXTINF:-1 ,CCTV3综艺
+http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000203802.m3u8
+#EXTINF:-1 ,CCTV4中文国际高清
+http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000204802.m3u8
+#EXTINF:-1 ,CCTV-5体育
+http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000205102.m3u8
+#EXTINF:-1 ,CCTV5+体育赛事
+http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204502.m3u8
+#EXTINF:-1 ,CCTV6电影
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EDF6D85U309F3010K7791FACCI171A032APBM3233C4BV1044EZ33519WE79F7A61B51&playtoken=ABCDEFGHI&rate=hd&programid=4200000136.m3u8
+#EXTINF:-1 ,CCTV8电视剧
+http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000203902.m3u8
+#EXTINF:-1 ,CCTV7军事
+http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000510002.m3u8
+#EXTINF:-1 ,CCTV9纪录
+http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000499402.m3u8
+#EXTINF:-1 ,CCTV10科教
+http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000203502.m3u8
+#EXTINF:-1 ,湖南卫视
+http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000296202.m3u8
+#EXTINF:-1 ,江苏卫视
+http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000295602.m3u8
+#EXTINF:-1 ,浙江卫视
+http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000295502.m3u8
+#EXTINF:-1 ,东方卫视
+http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000292402.m3u8
+#EXTINF:-1 ,安徽卫视
+http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000298002.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000281302.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000293902.m3u8
+#EXTINF:-1 ,山西卫视
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EDF6D85U309F3010K7791FACCI171A032APBM3233C4BV1044EZ33519WE79F7A61B51&playtoken=ABCDEFGHI&programid=4200000054.m3u8
+#EXTINF:-1 ,劲爆体育
+https://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
+#EXTINF:-1 ,新视觉HD
+https://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/2300000/mnf.m3u8
+#EXTINF:-1 ,五星体育
+https://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/2300000/mnf.m3u8
+#EXTINF:-1 ,广东体育
+http://cdn12.switchium.com/gdty.m3u8
+#EXTINF:-1 ,皇马足球台
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1 ,CCTV5高清
+http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000205102.m3u8
+#EXTINF:-1 ,CCTV5赛事高清
+http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204502.m3u8
+#EXTINF:-1 ,上海纪实高清
+https://keonline.shanghai.liveplay.qq.com/live/program/live/jspdhd/2300000/mnf.m3u8
+#EXTINF:-1 ,凤凰卫视中文台
+http://111.13.111.42/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8?icpid=88888888&from=4&popid=4&hms_devid=83&prioritypopid=4&vqe=3
+#EXTINF:-1 ,凤凰卫视资讯台
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 ,香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,东森新闻台
+http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 ,TVBS新闻台
+http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
+#EXTINF:-1 ,三立新闻台
+http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
+#EXTINF:-1 ,FOX
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 ,美国中文台
+http://cdnmedia1.sinovision.net/247A45/live/livestream.m3u8
+#EXTINF:-1 ,CCTV1HD
+http://mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=202006091950162586f0f184094775a45ebea9b9558769&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20200609195016&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=183.131.179.9&SecurityKey=20200609195016&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&mtv_session=5b1843850f520ce90cb6c9aa02e26731&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3e70d99a4b489a358cffc6560b05fd25
