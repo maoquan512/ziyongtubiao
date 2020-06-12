@@ -35,16 +35,6 @@ http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
 http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 #EXTINF:-1 ,CCTV17
 http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204202.m3u8
-#EXTINF:-1 ,CGTN记录
-http://mgsp.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/doc/1000/01.m3u8?msisdn=202006111820344896bfaad0cd40beb5865633e76f8664&mdspid=&spid=699004&netType=0&sid=2200179356&pid=2028597139&timestamp=20200611182034&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=609006487&ParentNodeID=-99&assertID=2200179356&client_ip=61.153.100.138&SecurityKey=20200611182034&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&mtv_session=6e730a77b8d850e81a67c2de939b39cc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=43beab5eb8f4c2dc15b93762dcff2575
-#EXTINF:-1 ,CETV2
-http://mgsp.live.miguvideo.com:8088/wd_r3/cnr/cetv2/600/01.m3u8?msisdn=20200611182045455a50845d8b4a26a3b87a916358627e&mdspid=&spid=699004&netType=0&sid=5500665799&pid=2028597139&timestamp=20200611182045&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=649532169&ParentNodeID=-99&assertID=5500665799&client_ip=183.131.179.9&SecurityKey=20200611182045&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&mtv_session=7b11e80a153bfb9aebdf6e3142f40c31&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=db3a236549a2f06dd906f3fc104afae4
-#EXTINF:-1 ,CETV3
-http://mgsp.live.miguvideo.com:8088/wd_r3/cnr/cetv3/600/01.m3u8?msisdn=2020061118232327a069da2f6041a2aa0e31b83b5cc8a0&mdspid=&spid=699004&netType=0&sid=5500665800&pid=2028597139&timestamp=20200611182323&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=649531756&ParentNodeID=-99&assertID=5500665800&client_ip=183.131.179.9&SecurityKey=20200611182323&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&mtv_session=50b1df0496b33b1dc0ee1c9216563a7c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=eb31cac9f9840d53b11237904709722c
-#EXTINF:-1 ,CETV4
-http://mgsp.live.miguvideo.com:8088/wd_r3/cnr/cetv4/600/01.m3u8?msisdn=20200611182408d41ce519475941b59966fbf15a9c99e7&mdspid=&spid=699004&netType=0&sid=5500665801&pid=2028597139&timestamp=20200611182408&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=649531725&ParentNodeID=-99&assertID=5500665801&client_ip=61.153.100.138&SecurityKey=20200611182408&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&mtv_session=4bda0617b0311e84459ce404503d4b0c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4a10dc6f4fdd7d053aa8ea985dfdd2b8
-#EXTINF:-1 ,CCTV电视指南
-http://mgsp.live.miguvideo.com:8088/wd_r3/cnr/cetv4/600/01.m3u8?msisdn=20200611182408d41ce519475941b59966fbf15a9c99e7&mdspid=&spid=699004&netType=0&sid=5500665801&pid=2028597139&timestamp=20200611182408&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=649531725&ParentNodeID=-99&assertID=5500665801&client_ip=61.153.100.138&SecurityKey=20200611182408&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&mtv_session=4bda0617b0311e84459ce404503d4b0c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4a10dc6f4fdd7d053aa8ea985dfdd2b8
 #EXTINF:-1 ,北京卫视
 http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000272102.m3u8
 #EXTINF:-1 ,深圳卫视
